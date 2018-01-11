@@ -4,11 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExerciceHashGenerique", "ExerciceHashGenerique\ExerciceHashGenerique.vcxproj", "{1B39ED9F-4A12-4CA3-A465-571388D60502}"
-	ProjectSection(ProjectDependencies) = postProject
-		{42118C22-2B7B-487E-8158-CF3802565832} = {42118C22-2B7B-487E-8158-CF3802565832}
-		{8AE426AD-017E-4D04-A4D2-DD136D6B697D} = {8AE426AD-017E-4D04-A4D2-DD136D6B697D}
-		{1F6DD4C7-5373-456C-9192-09FB6B7E2029} = {1F6DD4C7-5373-456C-9192-09FB6B7E2029}
-	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NaiveHash", "NaiveHash\NaiveHash.vcxproj", "{1F6DD4C7-5373-456C-9192-09FB6B7E2029}"
 EndProject

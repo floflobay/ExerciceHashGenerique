@@ -2,7 +2,6 @@
 #ifndef SHA256_H
 #define SHA256_H
 #include <string>
-
 #define SHA256_VERSION 1,0,0,1
 #define SHA256_VERSION_STR "1,0,0,1"
 

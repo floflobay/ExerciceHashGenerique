@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
 	for (auto it = test_vector.begin(); it<test_vector.end(); it++){
 		output=hash(*it);
 
-		cout <<  "hashName_V" << version() << "()" << "('"<< *it << "'):" << output << endl;
+		cout << "Name of hash " << hashName() << "hashName_V" << version() << "()" << "('"<< *it << "'):" << output << endl;
 
 	}
 }
